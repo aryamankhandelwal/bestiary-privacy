@@ -76,7 +76,7 @@
                                                          
   <h2>Contact</h2>                                     
   <p>Questions or data deletion requests:<br/>
-  <a href="mailto:aryaman99@gmail.com">your@email.com</a></p> 
+  <a href="mailto:aryaman99@gmail.com">aryaman99@gmail.com</a></p> 
    
   </body>                                                
   </html>                          
