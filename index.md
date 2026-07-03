@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />                             
     <meta name="viewport" content="width=device-width, 
   initial-scale=1.0" />                                  
-    <title>Bestiary – Privacy Policy</title>              
+    <title>TaTube – Privacy Policy</title>              
     <style>                                              
       body { font-family: -apple-system, sans-serif;
   max-width: 680px; margin: 60px auto; padding: 0 20px;  
@@ -17,10 +17,10 @@
   <body>                                                 
                                                        
   <h1>Privacy Policy</h1>                
-  <p><strong>Bestiary</strong> — TV Show Tracker<br/>
+  <p><strong>TaTube</strong> — TV Show Tracker<br/>
   Last updated: April 25, 2026</p>                       
                                                          
-  <p>Bestiary is a TV show tracking app that lets you log   
+  <p>TaTube is a TV show tracking app that lets you log   
   what you've watched and share activity with friends.   
   This policy explains what data we collect and how we   
   use it.</p>                                          
@@ -53,7 +53,7 @@
   marketing.</p>                                       
                                          
   <h2>Third-Party Services</h2>                          
-  <p>Bestiary uses <strong>Firebase</strong> (by Google) to
+  <p>TaTube uses <strong>Firebase</strong> (by Google) to
   store and sync data. Firebase may process your data in 
   accordance with <a                                   
   href="https://policies.google.com/privacy">Google's    
@@ -66,7 +66,7 @@
   time by contacting us at the email below.</p>
                                                          
   <h2>Children's Privacy</h2>                            
-  <p>Bestiary is not directed at children under 13. We do
+  <p>TaTube is not directed at children under 13. We do
   not knowingly collect data from children under 13.</p> 
                                                        
   <h2>Changes to This Policy</h2>                        
